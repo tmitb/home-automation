@@ -1,0 +1,3 @@
+[submodule "home-automation-software-defined-hvac-controller"]
+	path = home-automation-software-defined-hvac-controller
+	url = git@github.com:tmitb/home-automation-software-defined-hvac-controller.git
